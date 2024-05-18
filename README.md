@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hugo-obrien
 - 👀 I’m interested in game development and role playing games
-- 🌱 I’m currently learning UE and Unity
+- 🌱 I’m currently learning Unreal Engine
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
